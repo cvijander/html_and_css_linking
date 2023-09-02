@@ -14,6 +14,13 @@ a:hover {
 a:active {
   color: black;
 }
+ 
+/* to style a harvard link differently */ 
+a.harvard 
+{
+    color: crimson;
+    font-weight: bold;
+}
 
 /* LiVe Fun Happy
 Lord Vader Former Handle Anakin */
